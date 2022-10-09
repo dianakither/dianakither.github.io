@@ -8,7 +8,7 @@ Hi my name is Diana and I am a veterinarian with a passion for science and data.
 
 ## Projects
 
-### Project 1:  Analysing the impact of mobility on COVID-19 infection rates  
+### Project 1:  Analysing the Impact of Mobility on COVID-19 Infection Rates  
 Tools and Technologies:     Python; SQL; AWS; Spark; MongoDB\
 Project Reports: [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
 [Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.docx](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.docx)\
@@ -21,7 +21,7 @@ This first section of the project examines the changes in mobility during the fi
 The second section of the project compares the changes in mobility during lockdown restrictions between Australian and Sweden during lockdown and the subsequent effects on infection rates.
 
 
-### Project 2:  Analysing treatment interventions and clinical findings for horses with colic 
+### Project 2:  Analysing Treatment Interventions and Clinical Findings for Horses with Colic 
 Tools And Technologies:     Microsoft Excel, RapidMiner \
 Project Report: [Data Mining Project - Colic in Horses.pdf](https://github.com/dianakither/myrepository/files/9740668/Data.Mining.Project.-.Colic.in.Horses.pdf) \
 Data Sets: [Data Set Link Colic in Horses.docx](https://github.com/dianakither/myrepository/files/9740670/Data.Set.Link.Colic.in.Horses.docx)
@@ -29,7 +29,7 @@ Data Sets: [Data Set Link Colic in Horses.docx](https://github.com/dianakither/m
 
 In this project a wealth of clinical case data pertaining to horses presenting with abdominal pain collected by the University of Guelph was analysed to identify trends and correlations in clinical indicators. This was then utilised to identify key clinical indicators to determine whether a case should be managed surgically or medically.
 
-### Project 3:  Developing a machine learning predictive modelling tool
+### Project 3:  Developing a Machine Learning Predictive Modelling Tool
 
 Tools and Technologies:     MATLAB \
 Project Report: [Model Building Report - Depth Of Anaesthesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740678/Model.Building.Report.-.Depth.Of.Anaesthesia.Index.Model.pdf) \
