@@ -9,11 +9,11 @@ Hi my name is Diana and I am a veterinarian with a passion for science and data.
 ## Projects
 
 ### Project 1:  Analysing the Impact of Mobility on COVID-19 Infection Rates  
-Tools and Technologies:     Python; SQL; AWS; Spark; MongoDB\
-Project Reports: [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
+**Tools and Technologies:**     Python; SQL; AWS; Spark; MongoDB\
+**Project Reports:**   [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
 [Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.docx](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.docx)\
-Code Files: Melbourne_Project_Code.ipynb,  Australia_and_Sweden_Project_Code.ipynb \
-Data Sets: [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
+**Code Files:**  Melbourne_Project_Code.ipynb;   Australia_and_Sweden_Project_Code.ipynb \
+**Data Sets:**   [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
 
 
 Utilising mobility data and global clinical data compiled by Google and Our World in Data at Oxford University respectively in regards to Covid-19 cases in 2020 this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
