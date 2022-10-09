@@ -1,1 +1,45 @@
-# dianakither.github.io
+# My Portfolio
+
+
+## Introduction  
+
+Hi my name is Diana and I am a veterinarian with a passion for science and data. After a successful 18 year career in  clinical practice I have achieved everything I set out to and therefore it is now time to follow my other passion, data and analytics and how data can be harnessed to improve decisions and optimise outcomes. In 2021 I completed my Graduate Diploma of Science (Applied Data Science) in preparation for a change of career. This respiratory shows examples of projects I have worked on throughout my studies as I continue to develop my skills in the field and Data Science and Analytics.
+
+
+## Projects
+
+### Project 1:  Analysing the impact of mobility on COVID-19 infection rates  
+Tools and Technologies:     Python; SQL; AWS; Spark; MongoDB\
+Project Reports: [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
+[Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.docx](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.docx)\
+Code Files: Australia_and_Sweden_Project_Code.ipynb \
+Data Sets: [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
+
+
+Utilising mobility data and global clinical data complied by Google and Our World in Data at Oxford University respevtively in regards to Covid-19 cases in 2020 this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
+This first section of the project examines the changes in mobility during the first and second lockdowns in Melbourne in 2020 in the context of case numbers and infection rates.
+The second section of the project compares the changes in mobility during lockdown restrictions between Australian and Sweden during lockdown and the subsquent effects on infection rates.
+
+
+### Project 2:  Analysing treatment interventions and clinical findings for horses with colic 
+Tools And Technologies:     Microsoft Excel, RapidMiner \
+Project Report: [Data Mining Project - Colic in Horses.pdf](https://github.com/dianakither/myrepository/files/9740668/Data.Mining.Project.-.Colic.in.Horses.pdf) \
+Data Sets: [Data Set Link Colic in Horses.docx](https://github.com/dianakither/myrepository/files/9740670/Data.Set.Link.Colic.in.Horses.docx)
+
+
+In this project a wealth of clinical case data pertaining to horses presenting with abdominal pain collected by the University of Guelph was analysed to identify trends and correlations in clinical indicators. This was then utilised to identify key clinical indicators to determine whether a case should be managed surgically or medically.
+
+### Project 3:  Developing a machine learning predictive modelling tool
+
+Tools and Techologies:     MATLAB \
+Project Report: [Model Building Report - Depth Of Anaesthesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740678/Model.Building.Report.-.Depth.Of.Anaesthesia.Index.Model.pdf) \
+[Final Report - Depth of Anaethesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740679/Final.Report.-.Depth.of.Anaethesia.Index.Model.pdf)
+
+Code Files: [MATLAB Code - Model Building Depth of Anaesthesia Model.docx](https://github.com/dianakither/myrepository/files/9740680/MATLAB.Code.-.Model.Building.Depth.of.Anaesthesia.Model.docx) \
+[MATLAB Code - Final Report Assessment of Depth of Anaesthesia Index Model.docx](https://github.com/dianakither/myrepository/files/9740682/MATLAB.Code.-.Final.Report.Assessment.of.Depth.of.Anaesthesia.Index.Model.docx)
+
+Data Sets: [Data set - Model Building.xlsx](https://github.com/dianakither/myrepository/files/9740683/Data.set.-.Model.Building.xlsx) \
+[Data set - Model Testing with BIS value.xlsx](https://github.com/dianakither/myrepository/files/9740684/Data.set.-.Model.Testing.with.BIS.value.xlsx)
+
+
+This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index.
