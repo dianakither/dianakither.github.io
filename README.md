@@ -12,13 +12,13 @@ Hi my name is Diana and I am a veterinarian with a passion for science and data.
 Tools and Technologies:     Python; SQL; AWS; Spark; MongoDB\
 Project Reports: [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
 [Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.docx](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.docx)\
-Code Files: Australia_and_Sweden_Project_Code.ipynb \
+Code Files: Melbourne_Project_Code.ipynb,  Australia_and_Sweden_Project_Code.ipynb \
 Data Sets: [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
 
 
-Utilising mobility data and global clinical data complied by Google and Our World in Data at Oxford University respevtively in regards to Covid-19 cases in 2020 this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
+Utilising mobility data and global clinical data compiled by Google and Our World in Data at Oxford University respectively in regards to Covid-19 cases in 2020 this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
 This first section of the project examines the changes in mobility during the first and second lockdowns in Melbourne in 2020 in the context of case numbers and infection rates.
-The second section of the project compares the changes in mobility during lockdown restrictions between Australian and Sweden during lockdown and the subsquent effects on infection rates.
+The second section of the project compares the changes in mobility during lockdown restrictions between Australian and Sweden during lockdown and the subsequent effects on infection rates.
 
 
 ### Project 2:  Analysing treatment interventions and clinical findings for horses with colic 
@@ -31,9 +31,10 @@ In this project a wealth of clinical case data pertaining to horses presenting w
 
 ### Project 3:  Developing a machine learning predictive modelling tool
 
-Tools and Techologies:     MATLAB \
+Tools and Technologies:     MATLAB \
 Project Report: [Model Building Report - Depth Of Anaesthesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740678/Model.Building.Report.-.Depth.Of.Anaesthesia.Index.Model.pdf) \
-[Final Report - Depth of Anaethesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740679/Final.Report.-.Depth.of.Anaethesia.Index.Model.pdf)
+[Final Report - Depth of Anaesthesia Index Model.pdf](https://github.com/dianakither/dianakither.github.io/files/9740819/Final.Report.-.Depth.of.Anaesthesia.Index.Model.pdf)
+
 
 Code Files: [MATLAB Code - Model Building Depth of Anaesthesia Model.docx](https://github.com/dianakither/myrepository/files/9740680/MATLAB.Code.-.Model.Building.Depth.of.Anaesthesia.Model.docx) \
 [MATLAB Code - Final Report Assessment of Depth of Anaesthesia Index Model.docx](https://github.com/dianakither/myrepository/files/9740682/MATLAB.Code.-.Final.Report.Assessment.of.Depth.of.Anaesthesia.Index.Model.docx)
