@@ -3,15 +3,15 @@
 
 ## Introduction  
 
-Hi my name is Diana and I am a veterinarian with a passion for science and data. After a successful 18 year career in  clinical practice I have achieved everything I set out to and therefore it is now time to follow my other passion, data and analytics and how data can be harnessed to improve decisions and optimise outcomes. In 2021 I completed my Graduate Diploma of Science (Applied Data Science) in preparation for a change of career. This respiratory shows examples of projects I have worked on throughout my studies as I continue to develop my skills in the field and Data Science and Analytics.
+Hi my name is Diana and I am a veterinarian with a passion for science and data. After a successful 18 year career in  clinical practice I have achieved everything I set out to and therefore it is now time to follow my other passion, data and analytics and how data can be harnessed to improve decisions and optimise outcomes. In 2021 I completed my Graduate Diploma of Science (Applied Data Science) in preparation for a change of career. This repository shows examples of projects I have worked on throughout my studies as I continue to develop my skills in the field and Data Science and Analytics.
 
 
 ## Projects
 
 ### Project 1:  Analysing the Impact of Mobility on COVID-19 Infection Rates  
 **Tools and Technologies:**     Python; SQL; AWS; Spark; MongoDB\
-**Project Reports:**   [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.docx](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.docx)\
-[Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.docx](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.docx)\
+**Project Reports:**   [Analysis of Covid-19 Community Mobility Data during Lockdowns in Melbourne in 2020.pdf](https://github.com/dianakither/myrepository/files/9740636/Analysis.of.Covid-19.Community.Mobility.Data.during.Lockdowns.in.Melbourne.in.2020.pdf)\
+[Analysis of Mobility Data and Covid-19 Infection Rates in Australia and Sweden in 2020.pdf](https://github.com/dianakither/myrepository/files/9740632/Analysis.of.Mobility.Data.and.Covid-19.Infection.Rates.in.Australia.and.Sweden.in.2020.pdf)\
 **Code Files:**  Melbourne_Project_Code.ipynb;   Australia_and_Sweden_Project_Code.ipynb \
 **Data Sets:**   [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
 
@@ -34,7 +34,7 @@ In this project a wealth of clinical case data pertaining to horses presenting w
 **Project Report:** [Model Building Report - Depth Of Anaesthesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740678/Model.Building.Report.-.Depth.Of.Anaesthesia.Index.Model.pdf) \
 [Final Report - Depth of Anaesthesia Index Model.pdf](https://github.com/dianakither/dianakither.github.io/files/9740819/Final.Report.-.Depth.of.Anaesthesia.Index.Model.pdf)
 
-**Code Files:** [MATLAB Code - Model Building Depth of Anaesthesia Model.docx](https://github.com/dianakither/myrepository/files/9740680/MATLAB.Code.-.Model.Building.Depth.of.Anaesthesia.Model.docx) \
+**Code Files:** [MATLAB Code - Model Building Depth of Anaesthesia Index Model.docx](https://github.com/dianakither/myrepository/files/9740680/MATLAB.Code.-.Model.Building.Depth.of.Anaesthesia.Index.Model.docx) \
 [MATLAB Code - Final Report Assessment of Depth of Anaesthesia Index Model.docx](https://github.com/dianakither/myrepository/files/9740682/MATLAB.Code.-.Final.Report.Assessment.of.Depth.of.Anaesthesia.Index.Model.docx)
 
 **Data Sets:** [Data set - Model Building.xlsx](https://github.com/dianakither/myrepository/files/9740683/Data.set.-.Model.Building.xlsx) \
