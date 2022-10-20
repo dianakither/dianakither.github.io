@@ -15,9 +15,9 @@ Hi my name is Diana and I am a veterinarian with a passion for science and data.
 **Code Files:**  Melbourne_Project_Code.ipynb;   Australia_and_Sweden_Project_Code.ipynb \
 **Data Sets:**   [Links Covid-19 Data Sets.docx](https://github.com/dianakither/myrepository/files/9740675/Links.Covid-19.Data.Sets.docx)
 
-Utilising mobility data and global clinical data compiled by Google and Our World in Data at Oxford University respectively in regards to Covid-19 cases in 2020 this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
+Utilising mobility data and global clinical data compiled by Google and Our World in Data at Oxford University respectively in regards to Covid-19 cases in 2020, this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
 This first section of the project examines the changes in mobility during the first and second lockdowns in Melbourne in 2020 in the context of case numbers and infection rates.
-The second section of the project compares the changes in mobility during lockdown restrictions between Australian and Sweden during lockdown and the subsequent effects on infection rates.
+The second section of the project compares the changes in mobility during lockdown restrictions between Australia and Sweden during lockdown and the subsequent effects on Covid-19 infection rates.
 
 
 ### Project 2:  Analysing Treatment Interventions and Clinical Findings for Horses with Colic 
@@ -40,4 +40,4 @@ In this project a wealth of clinical case data pertaining to horses presenting w
 **Data Sets:** [Data set - Model Building.xlsx](https://github.com/dianakither/myrepository/files/9740683/Data.set.-.Model.Building.xlsx) \
 [Data set - Model Testing with BIS value.xlsx](https://github.com/dianakither/myrepository/files/9740684/Data.set.-.Model.Testing.with.BIS.value.xlsx)
 
-This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index.
+This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index, a monitoring system also used to measure anaesthetic depth.
