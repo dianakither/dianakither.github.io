@@ -40,4 +40,4 @@ In this project a wealth of clinical case data pertaining to horses presenting w
 **Data Sets:** [Data set - Model Building.xlsx](https://github.com/dianakither/myrepository/files/9740683/Data.set.-.Model.Building.xlsx) \
 [Data set - Model Testing with BIS value.xlsx](https://github.com/dianakither/myrepository/files/9740684/Data.set.-.Model.Testing.with.BIS.value.xlsx)
 
-This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index, a monitoring system also used to measure anaesthetic depth.
+This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index, a monitoring system used to measure anaesthetic depth.
