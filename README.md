@@ -3,7 +3,7 @@
 
 ## Introduction  
 
-Hi my name is Diana and I am a veterinarian with a passion for science and data. After a successful 18 year career in  clinical practice I have achieved everything I set out to and therefore it is now time to follow my other passion, data and analytics and how data can be harnessed to improve decisions and optimise outcomes. In 2021, I completed my Graduate Diploma of Science (Applied Data Science) in preparation for a change of career. This repository contains a collection of files related to projects I have worked on throughout my studies as I continue to develop my skills in the field and Data Science and Analytics.
+Hi, my name is Diana and I am a veterinarian with a passion for science and data. After a successful 18 year career in  clinical practice I have achieved everything I set out to and therefore it is now time to follow my other passion, data and analytics and how data can be harnessed to improve decisions and optimise outcomes. In 2021, I completed my Graduate Diploma of Science (Applied Data Science) in preparation for a change of career. This repository contains a collection of files related to projects I have worked on throughout my studies as I continue to develop my skills in the field and Data Science and Analytics.
 
 
 ## Projects
