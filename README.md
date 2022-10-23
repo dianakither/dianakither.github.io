@@ -25,7 +25,7 @@ The second section of the project compares the changes in mobility between Austr
 **Project Report:** [Data Mining Project - Colic in Horses.pdf](https://github.com/dianakither/myrepository/files/9740668/Data.Mining.Project.-.Colic.in.Horses.pdf) \
 **Data Sets:** [Data Set Link Colic in Horses.docx](https://github.com/dianakither/myrepository/files/9740670/Data.Set.Link.Colic.in.Horses.docx)
 
-In this project a wealth of clinical case data pertaining to horses presenting with abdominal pain collected by the University of Guelph was analysed to identify trends and correlations in clinical indicators. This was then utilised to identify key clinical indicators to determine whether a case should be managed surgically or medically.
+In this project, a wealth of clinical case data pertaining to horses presenting with abdominal pain collected by the University of Guelph was analysed to identify trends and correlations in clinical indicators. This information was then utilised to identify key clinical indicators to determine whether a case should be managed surgically or medically.
 
 
 ### Project 3:  Developing a Machine Learning Predictive Modelling Tool
