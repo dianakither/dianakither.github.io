@@ -17,7 +17,7 @@ Hi, my name is Diana and I am a veterinarian with a passion for science and data
 
 Utilising mobility data and global clinical data compiled by Google and Our World in Data at Oxford University respectively in regards to Covid-19 cases in 2020, this project investigates the impact of mobility on the spread of Covid-19 both locally and abroad. 
 The first section of the project examines the changes in mobility during the first and second lockdowns in Melbourne in 2020 in the context of case numbers and infection rates.
-The second section of the project compares the changes in mobility during lockdown restrictions between Australia and Sweden during lockdown and the subsequent effects on Covid-19 infection rates.
+The second section of the project compares the changes in mobility between Australia and Sweden during lockdown restrictions and the subsequent effects on Covid-19 infection rates.
 
 
 ### Project 2:  Analysing Treatment Interventions and Clinical Findings for Horses with Colic 
