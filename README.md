@@ -28,7 +28,7 @@ The second section of the project compares the changes in mobility between Austr
 In this project, a wealth of clinical case data pertaining to horses presenting with abdominal pain collected by the University of Guelph was analysed to identify trends and correlations in clinical indicators. This information was then utilised to identify key clinical indicators to determine whether a case should be managed surgically or medically.
 
 
-### Project 3:  Developing a Machine Learning Predictive Modelling Tool
+### Project 3:  Developing a Machine Learning Predictive Modelling Tool to Gauge Anaesthetic Depth
 
 **Tools and Technologies:**  MATLAB \
 **Project Report:** [Model Building Report - Depth Of Anaesthesia Index Model.pdf](https://github.com/dianakither/myrepository/files/9740678/Model.Building.Report.-.Depth.Of.Anaesthesia.Index.Model.pdf) \
