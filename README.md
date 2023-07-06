@@ -48,7 +48,7 @@ This project utilised machine learning techniques to design and develop a machin
 **Project Report:** [Analysis of Water Quality Data from European Rivers.pdf](https://github.com/dianakither/dianakither.github.io/blob/main/Analysis%20of%20Water%20Quality%20Data%20from%20European%20Rivers.pdf) \
 **Code Files:** [River Water Data Analysis.R](https://github.com/dianakither/dianakither.github.io/blob/main/River%20Water%20Data%20Analysis.R![image](https://github.com/dianakither/dianakither.github.io/assets/85420671/2618eb48-601d-4c34-afef-1a072ac9a4eb)
 )\
-**Data Sets:** [Data set - rivers.csv] \
+**Data Sets:** [Data set - rivers.csv](https://github.com/dianakither/dianakither.github.io/blob/main/river.csv) \
 [Data set - River Water Data.xls](https://github.com/dianakither/dianakither.github.io/blob/main/River%20Water%20Data.xls![image](https://github.com/dianakither/dianakither.github.io/assets/85420671/c8f1814b-d33a-4b20-b120-fcc7bb18a8b5)
 ) \
 
