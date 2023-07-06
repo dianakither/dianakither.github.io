@@ -46,9 +46,11 @@ This project utilised machine learning techniques to design and develop a machin
 ### Project 4:  Analysing Water Quality Data from European Rivers
 **Tools And Technologies:**    R   \
 **Project Report:** [Analysis of Water Quality Data from European Rivers.pdf](https://github.com/dianakither/dianakither.github.io/blob/main/Analysis%20of%20Water%20Quality%20Data%20from%20European%20Rivers.pdf) \
-**Code Files:** [River Water Data Analysis.R]\
+**Code Files:** [River Water Data Analysis.R](https://github.com/dianakither/dianakither.github.io/blob/main/River%20Water%20Data%20Analysis.R![image](https://github.com/dianakither/dianakither.github.io/assets/85420671/2618eb48-601d-4c34-afef-1a072ac9a4eb)
+)\
 **Data Sets:** [Data set - rivers.csv] \
-[Data set - River Water Data.xls] \
+[Data set - River Water Data.xls](https://github.com/dianakither/dianakither.github.io/blob/main/River%20Water%20Data.xls![image](https://github.com/dianakither/dianakither.github.io/assets/85420671/c8f1814b-d33a-4b20-b120-fcc7bb18a8b5)
+) \
 
 In this project, water quality data from 200 European rivers was analysised which included a number of chemical and algal distribution variables. The effect of season on water quality was investigated and whether river water quality data could be used to predict seasons. 
 
