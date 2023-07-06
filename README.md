@@ -45,8 +45,8 @@ This project utilised machine learning techniques to design and develop a machin
 
 ### Project 4:  Analysing Water Quality Data from European Rivers
 **Tools And Technologies:**    R   \
-**Project Report:** [Analysis of Water Quality Data from European Rivers.pdf]\
-**Code Files:** [River Water Data Analysis.R] \
+**Project Report:** [Analysis of Water Quality Data from European Rivers.pdf](https://github.com/dianakither/dianakither.github.io/blob/main/Analysis%20of%20Water%20Quality%20Data%20from%20European%20Rivers.pdf) \
+**Code Files:** [River Water Data Analysis.R]\
 **Data Sets:** [Data set - rivers.csv] \
 [Data set - River Water Data.xls] \
 
