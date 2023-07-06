@@ -41,3 +41,14 @@ In this project, a wealth of clinical case data pertaining to horses presenting 
 [Data set - Model Testing with BIS value.xlsx](https://github.com/dianakither/myrepository/files/9740684/Data.set.-.Model.Testing.with.BIS.value.xlsx)
 
 This project utilised machine learning techniques to design and develop a machine learning model to accurately predict a score with which to gauge anaesthetic depth using EEG data from patients under general anaesthesia. The model was validated by comparing data against the Bispectral Index, a monitoring system used to measure anaesthetic depth.
+
+
+### Project 4:  Analysing Water Quality Data from European Rivers
+**Tools And Technologies:**    R   \
+**Project Report:** [Analysis of Water Quality Data from European Rivers.pdf] \
+**Code Files:** [River Water Data Analysis.R] \
+**Data Sets:** [Data set - rivers.csv] \
+[Data set - River Water Data.xls] \
+
+In this project, water quality data from 200 European rivers was analysised which included a number of chemical and algal distribution variables. The effect of season on water quality was investigated and whether river water quality data could be used to predict seasons. 
+
